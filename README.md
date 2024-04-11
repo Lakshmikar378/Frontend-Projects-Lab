@@ -1,6 +1,10 @@
 ﻿#Frontend-Projects-Lab🌎
 
-This repository contains a collection of frontend projects.Each project is built using HTML, CSS, and JavaScript.
+This repository contains a collection of frontend projects.Each project is built using HTML, CSS, and JavaScript 
+Let's bring creativity and clarity to project descriptions
+Fill the below table with your s.no,project name and project link as per mentioned
+Don't modify the list let everyone do their part of contribution
+#HELP EACH OTHER, GROW EACH OTHER
 
 
 # Projects 📂
